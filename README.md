@@ -1,4 +1,8 @@
-<h1 align="center">🌀 Shikki</h1>
+<p align="center">
+<img src="assets/logo-flame-glitch.svg" alt="Shikki" width="200" height="200">
+</p>
+
+<h1 align="center">Shikki</h1>
 
 <p align="center">
 <b>AI code production engine.</b><br>
